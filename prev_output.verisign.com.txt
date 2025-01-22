@@ -71,7 +71,6 @@ forms.verisign.com
 fpe.verisign.com
 ftp.mss.verisign.com
 gatekeeper.verisign.com
-gateway.verisign.com
 gateway1.verisign.com
 gateway2.verisign.com
 gateway3.verisign.com
@@ -122,6 +121,10 @@ login-otp.verisign.com
 login.gslb.verisign.com
 login.verisign.com
 logindr.verisign.com
+logindr.verisimailer3.verisign.com
+logindr.verisimailer5.verisign.com
+logindr.verisimailhosteu.verisign.com
+logindr.verisiquasar.verisign.com
 lwas.verisign.com
 lws-ext.corparch.verisign.com
 lws-ext.verisign.com
@@ -138,15 +141,12 @@ mail5.verisign.com
 mail6.verisign.com
 mailer1.verisign.com
 mailer2.verisign.com
-mailer3.verisign.com
 mailer4.verisign.com
-mailer5.verisign.com
 mailer6.verisign.com
 mailhost.verisign.com
 mailhost1.verisign.com
 mailhost2.verisign.com
 mailhost3.verisign.com
-mailhosteu.verisign.com
 maintenance.verisign.com
 maple.verisign.com
 mapleleaf.verisign.com
@@ -254,7 +254,6 @@ pts.verisign.com
 publicdnsforum.verisign.com
 qa4-api.verisign.com
 qaweb.verisign.com
-quasar.verisign.com
 query.verisign.com
 rdap.verisign.com
 rds.verisign.com
