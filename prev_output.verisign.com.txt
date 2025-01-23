@@ -62,6 +62,7 @@ email.gh-mail.verisign.com
 entsecurity.verisign.com
 eol-redirect.verisign.com
 epcdev.verisign.com
+er.verisign.com
 everest.verisign.com
 everest1.verisign.com
 everest2.verisign.com
@@ -79,6 +80,7 @@ globalcrossing.mss.verisign.com
 globalprotect.verisign.com
 goodmail.verisign.com
 goofy.verisign.com
+gp-fri.verisign.com
 gp-mel.verisign.com
 gp-sars.verisign.com
 gp-test.verisign.com
@@ -92,6 +94,7 @@ heron.verisign.com
 host-110.verisign.com
 icentral.verisign.com
 icms.verisign.com
+infocenter.verisign.com
 informationportal.verisign.com
 infosecgrc.verisign.com
 internap.mss.verisign.com
@@ -114,6 +117,7 @@ join.verisign.com
 joshua.verisign.com
 labs.verisign.com
 legacy.corparch.verisign.com
+legacy.verisign.com
 login-otp.verisign.com
 login.gslb.verisign.com
 login.verisign.com
@@ -142,6 +146,7 @@ mailhost.verisign.com
 mailhost1.verisign.com
 mailhost2.verisign.com
 mailhost3.verisign.com
+mailhosteu.verisign.com
 maintenance.verisign.com
 maple.verisign.com
 mapleleaf.verisign.com
@@ -249,6 +254,7 @@ pts.verisign.com
 publicdnsforum.verisign.com
 qa4-api.verisign.com
 qaweb.verisign.com
+quasar.verisign.com
 query.verisign.com
 rdap.verisign.com
 rds.verisign.com
@@ -276,7 +282,6 @@ sipaccess-dr.verisign.com
 sipaccess.verisign.com
 sipexternal.verisign.com
 skylark.verisign.com
-smailhosteu.verisign.com
 smetrics.verisign.com
 smtp.verisign.com
 soaprod.verisign.com
@@ -298,6 +303,7 @@ survey.verisign.com
 test-admin.contentportal.verisign.com
 test-wap1.contentportal.verisign.com
 test-web1.contentportal.verisign.com
+thebes.verisign.com
 tld-rdap.verisign.com
 tld-webwhois.verisign.com
 topup.verisign.com
@@ -310,7 +316,6 @@ unav.verisign.com
 user-apis.verisign.com
 usertesting.verisign.com
 v-lync.verisign.com
-v-lync.verlegacy.verisign.com
 validation.verisign.com
 validation2.verisign.com
 vdps.verisign.com
@@ -318,7 +323,6 @@ vdpsreports.verisign.com
 vendorportal.verisign.com
 vendorsupport.verisign.com
 verified-domains.verisign.com
-vice.verisign.com
 view.messages.verisign.com
 vpn-brn.verisign.com
 vpn-mel.verisign.com
