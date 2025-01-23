@@ -1,7 +1,6 @@
 access.verisign.com
 accounts-otp.verisign.com
 accounts.verisign.com
-accountsdr.verisign.com
 alerts.verisign.com
 alertus.verisign.com
 andaman.verisign.com
@@ -27,6 +26,7 @@ caladan.verisign.com
 cap.verisign.com
 careers.verisign.com
 ccprocessing.verisign.com
+ch.verisign.com
 cic.verisign.com
 cicsensor.verisign.com
 circle.verisign.com
@@ -63,7 +63,6 @@ entsecurity.verisign.com
 eol-redirect.verisign.com
 epcdev.verisign.com
 er.verisign.com
-everest.verisign.com
 everest1.verisign.com
 everest2.verisign.com
 extranet.mss.verisign.com
@@ -121,6 +120,8 @@ legacy.verisign.com
 login-otp.verisign.com
 login.gslb.verisign.com
 login.verisign.com
+logindr.veaccountsdr.verisign.com
+logindr.vens33.verisign.com
 logindr.verisign.com
 lwas.verisign.com
 lws-ext.corparch.verisign.com
@@ -146,7 +147,6 @@ mailhost.verisign.com
 mailhost1.verisign.com
 mailhost2.verisign.com
 mailhost3.verisign.com
-mailhosteu.verisign.com
 maintenance.verisign.com
 maple.verisign.com
 mapleleaf.verisign.com
@@ -203,10 +203,8 @@ ns3.verisign.com
 ns30.verisign.com
 ns31.verisign.com
 ns32.verisign.com
-ns33.verisign.com
 ns34.verisign.com
 ns35.verisign.com
-ns36.verisign.com
 ns37.verisign.com
 ns38.verisign.com
 ns39.verisign.com
@@ -269,7 +267,6 @@ robin.verisign.com
 rss.verisign.com
 rtma.verisign.com
 safari.verisign.com
-salesportal.verisign.com
 savannah.verisign.com
 scs-test.verisign.com
 search.verisign.com
@@ -282,7 +279,6 @@ sipaccess-dr.verisign.com
 sipaccess.verisign.com
 sipexternal.verisign.com
 skylark.verisign.com
-smetrics.verisign.com
 smtp.verisign.com
 soaprod.verisign.com
 spark.verisign.com
