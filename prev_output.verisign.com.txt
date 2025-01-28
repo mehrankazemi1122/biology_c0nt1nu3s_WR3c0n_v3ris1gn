@@ -78,6 +78,7 @@ gateway3.verisign.com
 gladiator.verisign.com
 globalcrossing.mss.verisign.com
 globalprotect.verisign.com
+goodmail.verisign.com
 goofy.verisign.com
 gp-fri.verisign.com
 gp-mel.verisign.com
@@ -87,7 +88,6 @@ gp-web.verisign.com
 gp.verisign.com
 graphicslibrary.verisign.com
 gwiz.verisign.com
-h.verisign.com
 hal9000.verisign.com
 helpdesk.verisign.com
 heron.verisign.com
@@ -277,7 +277,6 @@ sentinel.verisign.com
 services.mss.verisign.com
 ses.clearing.verisign.com
 sip.corparch.verisign.com
-sip.goodmail.verisign.com
 sip.verisign.com
 sipaccess-dr.verisign.com
 sipaccess.verisign.com
@@ -315,6 +314,7 @@ ued.verisign.com
 unav-otp.verisign.com
 unav.verisign.com
 user-apis.verisign.com
+usertesting.verisign.com
 v-lync.verisign.com
 validation.verisign.com
 validation2.verisign.com
@@ -352,6 +352,5 @@ www.verisign.com
 www.webbusiness.verisign.com
 www.yourdomain.verisign.com
 xml-reg.verisign.com
-xmpp-dr.verisign.com
 xmpp.verisign.com
 yourdomain.verisign.com
