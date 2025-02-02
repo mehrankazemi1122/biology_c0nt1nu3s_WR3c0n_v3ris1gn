@@ -2,7 +2,6 @@ access.verisign.com
 accounts-otp.verisign.com
 accounts.verisign.com
 accountsdr.verisign.com
-ages.verisign.com
 alerts.verisign.com
 alertus.verisign.com
 andaman.verisign.com
@@ -28,7 +27,6 @@ caladan.verisign.com
 cap.verisign.com
 careers.verisign.com
 ccprocessing.verisign.com
-cic.verisign.com
 cicsensor.verisign.com
 circle.verisign.com
 citrix.verisign.com
@@ -56,7 +54,6 @@ dodeca.verisign.com
 dullmxout01.corparch.verisign.com
 dw.ses.clearing.verisign.com
 e-lync-dir.verisign.com
-eagle.verisign.com
 eim.verisign.com
 elearning.verisign.com
 email.gh-mail.verisign.com
@@ -69,6 +66,7 @@ everest1.verisign.com
 everest2.verisign.com
 extranet.mss.verisign.com
 forms.verisign.com
+fpe.verisign.com
 ftp.mss.verisign.com
 gatekeeper.verisign.com
 gateway.verisign.com
@@ -110,6 +108,7 @@ ispcenter-enroll.verisign.com
 ispcenter.verisign.com
 ispservices.verisign.com
 jamf.verisign.com
+jamf.verisign.covendorsupport.verisign.com
 jamfdev.verisign.com
 jinf.verisign.com
 join.corparch.verisign.com
@@ -147,7 +146,6 @@ mailhost1.verisign.com
 mailhost2.verisign.com
 mailhost3.verisign.com
 mailhosteu.verisign.com
-maintenance.verisigfpe.verisign.com
 maintenance.verisign.com
 maple.verisign.com
 mapleleaf.verisign.com
@@ -219,6 +217,7 @@ nsw-api.verisign.com
 nsw-config.verisign.com
 nsw-service.verisign.com
 nswm-service.verisign.com
+ocsp.verisign.com
 ocwa.verisign.com
 onetrust.verisign.com
 onlinecontracts-security-services.verisign.com
@@ -321,7 +320,6 @@ validation2.verisign.com
 vdps.verisign.com
 vdpsreports.verisign.com
 vendorportal.verisign.com
-vendorsupport.verisign.com
 verified-domains.verisign.com
 view.messages.verisign.com
 vpn-brn.verisign.com
