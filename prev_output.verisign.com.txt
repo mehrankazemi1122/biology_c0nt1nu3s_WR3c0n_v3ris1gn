@@ -27,7 +27,6 @@ caladan.verisign.com
 cap.verisign.com
 careers.verisign.com
 ccprocessing.verisign.com
-cicsensor.verisign.com
 circle.verisign.com
 citrix.verisign.com
 citrixsg.verisign.com
@@ -54,6 +53,7 @@ dodeca.verisign.com
 dullmxout01.corparch.verisign.com
 dw.ses.clearing.verisign.com
 e-lync-dir.verisign.com
+eagle.verisign.com
 eim.verisign.com
 elearning.verisign.com
 email.gh-mail.verisign.com
@@ -108,7 +108,6 @@ ispcenter-enroll.verisign.com
 ispcenter.verisign.com
 ispservices.verisign.com
 jamf.verisign.com
-jamf.verisign.covendorsupport.verisign.com
 jamfdev.verisign.com
 jinf.verisign.com
 join.corparch.verisign.com
@@ -137,7 +136,7 @@ mail5.verisign.com
 mail6.verisign.com
 mailer1.verisign.com
 mailer2.verisign.com
-mailer3.verisign.com
+mailer3.verisign.cicsensor.verisign.com
 mailer4.verisign.com
 mailer5.verisign.com
 mailer6.verisign.com
@@ -320,6 +319,7 @@ validation2.verisign.com
 vdps.verisign.com
 vdpsreports.verisign.com
 vendorportal.verisign.com
+vendorsupport.verisign.com
 verified-domains.verisign.com
 view.messages.verisign.com
 vpn-brn.verisign.com
