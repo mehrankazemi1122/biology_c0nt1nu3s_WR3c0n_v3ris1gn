@@ -11,7 +11,6 @@ att.mss.verisign.com
 autodiscover.corparch.verisign.com
 av.verisign.com
 avedge-dr.verisign.com
-avedge-dr.vmdmuat.verisign.com
 avedge.verisign.com
 blog.verisign.com
 blogs.verisign.com
@@ -41,9 +40,6 @@ contentservices2.verisign.com
 corporate.verisign.com
 cp.verisign.com
 crl.verisign.com
-crl.verisign.gateway1.verisign.com
-crl.verisign.investor.verisign.com
-crl.verisign.ocsp.verisign.com
 crow.verisign.com
 cube.verisign.com
 customer-center.verisign.com
@@ -76,6 +72,7 @@ fpe.verisign.com
 ftp.mss.verisign.com
 gatekeeper.verisign.com
 gateway.verisign.com
+gateway1.verisign.com
 gateway2.verisign.com
 gateway3.verisign.com
 gladiator.verisign.com
@@ -95,6 +92,7 @@ hal9000.verisign.com
 helpdesk.verisign.com
 heron.verisign.com
 host-110.verisign.com
+icentral.verisign.com
 icms.verisign.com
 infocenter.verisign.com
 informationportal.verisign.com
@@ -103,8 +101,10 @@ internap.mss.verisign.com
 international.verisign.com
 intranet-1.verisign.com
 intranet-2.verisign.com
+investor.verisign.com
 ios.verisign.com
 ipconnect.verisign.com
+ips.verisign.com
 ispcenter-admin.verisign.com
 ispcenter-enroll.verisign.com
 ispcenter.verisign.com
@@ -139,6 +139,7 @@ mail6.verisign.com
 mailer1.verisign.com
 mailer2.verisign.com
 mailer3.verisign.com
+mailer4.verisign.com
 mailer5.verisign.com
 mailer6.verisign.com
 mailhost.verisign.com
@@ -152,6 +153,7 @@ mapleleaf.verisign.com
 marketing.verisign.com
 mdm.corparch.verisign.com
 mdm1.verisign.com
+mdmuat.verisign.com
 mdmz.verisign.com
 meetings-webex.verisign.com
 mem-dr.verisign.com
@@ -216,6 +218,7 @@ nsw-api.verisign.com
 nsw-config.verisign.com
 nsw-service.verisign.com
 nswm-service.verisign.com
+ocsp.verisign.com
 ocwa.verisign.com
 onetrust.verisign.com
 onlinecontracts-security-services.verisign.com
@@ -325,6 +328,7 @@ vpn-brn.verisign.com
 vpn-mel.verisign.com
 vpn.verisign.com
 vps-psc.verisign.com
+vsc.verisign.com
 vts.verisign.com
 vulnerabilityscanning.mss.verisign.com
 vulture.verisign.com
