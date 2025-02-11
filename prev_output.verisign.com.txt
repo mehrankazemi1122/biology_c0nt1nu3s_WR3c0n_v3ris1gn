@@ -16,6 +16,7 @@ blog.verisign.com
 blogs.verisign.com
 brandcenter.verisign.com
 brn1lxmailin01.verisign.com
+brn1lxmailin02.verisign.com
 brn1lxmailout01.verisign.com
 brn1lxmailout02.verisign.com
 brn1mailers.verisign.com
@@ -60,7 +61,6 @@ elearning.verisign.com
 email.gh-mail.verisign.com
 entsecurity.verisign.com
 eol-redirect.verisign.com
-epcdev.verisign.com
 er.verisign.com
 everest.verisign.com
 everest1.verisign.com
@@ -92,15 +92,18 @@ helpdesk.verisign.com
 heron.verisign.com
 host-110.verisign.com
 icentral.verisign.com
+icms.verisign.com
 infocenter.verisign.com
 informationportal.verisign.com
 infosecgrc.verisign.com
 internap.mss.verisign.com
+international.verisign.com
 intranet-1.verisign.com
 intranet-2.verisign.com
 investor.verisign.com
 ios.verisign.com
 ipconnect.verisign.com
+ips.verisign.com
 ispcenter-admin.verisign.com
 ispcenter-enroll.verisign.com
 ispcenter.verisign.com
@@ -212,14 +215,12 @@ ns7.verisign.com
 ns8.verisign.com
 nsw-api.verisign.com
 nsw-config.verisign.com
-nsw-service.verisign.com
 nswm-service.verisign.com
 ocsp.verisign.com
 ocwa.verisign.com
 onetrust.verisign.com
 onlinecontracts-security-services.verisign.com
 onsitecrl.verisign.com
-orientation.verisign.com
 origin.blog.verisign.com
 osprey.verisign.com
 ote-accounts-otp.verisign.com
@@ -235,6 +236,7 @@ peacock.verisign.com
 pelican.verisign.com
 peregrine.verisign.com
 pi.verisign.com
+pic.verisign.com
 pigeon.verisign.com
 pilot-buyerauth-post.verisign.com
 pilot-buyerauth.verisign.com
@@ -245,6 +247,7 @@ pmg-acg-billing.verisign.com
 pmg.verisign.com
 pmg2.verisign.com
 portal.mss.verisign.com
+pts.verisign.cnsw-service.verisign.com
 pts.verisign.com
 publicdnsforum.verisign.com
 qa4-api.verisign.com
@@ -273,15 +276,14 @@ services.mss.verisign.com
 ses.clearing.verisign.com
 sip.corparch.verisign.com
 sip.verisign.com
-sip.verisign.ips.verisign.com
 sipaccess-dr.verisign.com
 sipaccess.verisign.com
+sipexternal.verisign.com
 skylark.verisign.com
 smetrics.verisign.com
 smtp.verisign.com
 soaprod.verisign.com
 spark.verisign.com
-spark.vesipexternal.verisign.com
 square.verisign.com
 sslftp.verisign.com
 sso.verisign.com
@@ -296,6 +298,7 @@ sun.mss.verisign.com
 support-otp.verisign.com
 support.verisign.com
 survey.verisign.com
+ternap.mss.verisiorientation.verisign.com
 test-admin.contentportal.verisign.com
 test-wap1.contentportal.verisign.com
 test-web1.contentportal.verisign.com
@@ -307,7 +310,6 @@ trackers.verisign.com
 translations.verisign.com
 tuvalu.verisign.com
 ued.verisign.com
-unav-otp.verisign.com
 unav.verisign.com
 user-apis.verisign.com
 usertesting.verisign.com
@@ -324,7 +326,6 @@ vpn-brn.verisign.com
 vpn-mel.verisign.com
 vpn.verisign.com
 vps-psc.verisign.com
-vsc.verisign.com
 vts.verisign.com
 vulnerabilityscanning.mss.verisign.com
 vulture.verisign.com
