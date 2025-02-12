@@ -40,6 +40,7 @@ contentservices2.verisign.com
 corporate.verisign.com
 cp.verisign.com
 crl.verisign.com
+crl.verisiosprey.verisign.com
 crow.verisign.com
 cube.verisign.com
 customer-center.verisign.com
@@ -71,7 +72,6 @@ forms.verisign.com
 fpe.verisign.com
 ftp.mss.verisign.com
 gatekeeper.verisign.com
-gateway.verisign.com
 gateway1.verisign.com
 gateway2.verisign.com
 gateway3.verisign.com
@@ -225,7 +225,6 @@ onlinecontracts-security-services.verisign.com
 onsitecrl.verisign.com
 orientation.verisign.com
 origin.blog.verisign.com
-osprey.verisign.com
 ote-accounts-otp.verisign.com
 ote-cube.verisign.com
 ote-login-otp.verisign.com
