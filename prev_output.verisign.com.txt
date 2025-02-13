@@ -177,7 +177,6 @@ musketeer.verisign.com
 mybetter.verisign.com
 mydevice.verisign.com
 mywebsite.verisign.com
-netexch.clearing.verisign.com
 nrd.verisign.com
 nrdz.verisign.com
 ns1.verisign.com
