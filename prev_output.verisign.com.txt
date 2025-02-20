@@ -32,7 +32,6 @@ cicsensor.verisign.com
 circle.verisign.com
 citrix.verisign.com
 citrixsg.verisign.com
-clearing.verisign.com
 click.messages.verisign.com
 colibri.verisign.com
 contentservices.verisign.com
@@ -178,6 +177,7 @@ mybetter.verisign.com
 mydevice.verisign.com
 mywebsite.verisign.com
 netexch.clearing.verisign.com
+nnsw-service.verisign.com
 nrd.verisign.com
 nrdz.verisign.com
 ns1.verisign.com
@@ -216,7 +216,6 @@ ns7.verisign.com
 ns8.verisign.com
 nsw-api.verisign.com
 nsw-config.verisign.com
-nsw-service.verisign.com
 nswm-service.verisign.com
 ocsp.verisign.com
 ocwa.verisign.com
@@ -319,7 +318,6 @@ v-lync.verisign.com
 validation.verisign.com
 validation2.verisign.com
 vdps.verisign.com
-vdpsreports.verisign.com
 vendorportal.verisign.com
 vendorsupport.verisign.com
 verified-domains.verisign.com
@@ -344,7 +342,6 @@ welcome.verisign.com
 whois.verisign.com
 workbench.mss.verisign.com
 www.gslb.verisign.com
-www.mywebsite.verisign.com
 www.research.verisign.com
 www.roamerview-radius.verisign.com
 www.securemobile.verisign.com
