@@ -1,5 +1,4 @@
 access.verisign.com
-accounts-otp.verisign.com
 accounts.verisign.com
 accountsdr.verisign.com
 alerts.verisign.com
@@ -92,6 +91,7 @@ hal9000.verisign.com
 helpdesk.verisign.com
 heron.verisign.com
 host-110.verisign.com
+iaccounts-otp.verisign.com
 icentral.verisign.com
 icms.verisign.com
 infocenter.verisign.com
@@ -172,7 +172,6 @@ mms.verisign.com
 mmsmonitor-demo.verisign.com
 mobile.corparch.verisign.com
 mra.verisign.com
-mssportal.verisign.com
 musketeer.verisign.com
 mybetter.verisign.com
 mydevice.verisign.com
@@ -281,6 +280,7 @@ sip.verisign.com
 sipaccess-dr.verisign.com
 sipaccess.verisign.com
 sipexternal.verisign.com
+sktopsupport.verisign.com
 skylark.verisign.com
 smetrics.verisign.com
 smtp.verisign.com
