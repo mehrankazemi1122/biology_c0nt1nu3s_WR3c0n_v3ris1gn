@@ -1,5 +1,4 @@
 access.verisign.com
-accounts-otp.verisign.com
 accounts.verisign.com
 accountsdr.verisign.com
 alerts.verisign.com
@@ -10,7 +9,6 @@ artemis.verisign.com
 att.mss.verisign.com
 autodiscover.corparch.verisign.com
 av.verisign.com
-avedge-dr.verisign.com
 avedge.verisign.com
 blog.verisign.com
 blogs.verisign.com
@@ -42,15 +40,25 @@ crl.verisign.com
 crow.verisign.com
 cube.verisign.com
 customer-center.verisign.com
+customercaccounts-otp.verisign.com
+customercavedge-dr.verisign.com
 customercenter.verisign.com
+customercgp-test.verisign.com
+customercrss.verisign.com
+customercsipaccess-dr.verisign.com
+customercstatuschange.verisign.com
+customercwebconf-dr.verisign.com
+customercwebmail.corparch.verisign.com
 cxml-xmlpay.verisign.com
 dbm.verisign.com
 dbms.verisign.com
+dcenter.verisign.com
 desktopsupport.verisign.com
 developer.verisign.com
 dm.verisign.com
 dnssecforum.verisign.com
 dodeca.verisign.com
+dr.verisign.com
 dullmxout01.corparch.verisign.com
 dw.ses.clearing.verisign.com
 e-lync-dir.verisign.com
@@ -82,7 +90,6 @@ goofy.verisign.com
 gp-fri.verisign.com
 gp-mel.verisign.com
 gp-sars.verisign.com
-gp-test.verisign.com
 gp-web.verisign.com
 gp.verisign.com
 graphicslibrary.verisign.com
@@ -265,8 +272,8 @@ ro-otp.verisign.com
 ro.verisign.com
 roaminghub.verisign.com
 robin.verisign.com
-rss.verisign.com
 rtma.verisign.com
+s.verisign.com
 safari.verisign.com
 salesportal.verisign.com
 savannah.verisign.com
@@ -277,7 +284,6 @@ services.mss.verisign.com
 ses.clearing.verisign.com
 sip.corparch.verisign.com
 sip.verisign.com
-sipaccess-dr.verisign.com
 sipaccess.verisign.com
 sipexternal.verisign.com
 skylark.verisign.com
@@ -293,7 +299,6 @@ sss.verisign.com
 stargate.verisign.com
 startonline.verisign.com
 status.verisign.com
-statuschange.verisign.com
 styleguide.verisign.com
 sun.mss.verisign.com
 support-otp.verisign.com
@@ -332,11 +337,9 @@ vts.verisign.com
 vulnerabilityscanning.mss.verisign.com
 vulture.verisign.com
 webcon.verisign.com
-webconf-dr.verisign.com
 webconf.verisign.com
 webexteams.verisign.com
 webidentity.verisign.com
-webmail.corparch.verisign.com
 webnum.verisign.com
 webwhois.verisign.com
 welcome.verisign.com
