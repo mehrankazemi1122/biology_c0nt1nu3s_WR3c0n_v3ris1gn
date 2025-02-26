@@ -30,7 +30,6 @@ ccprocessing.verisign.com
 cic.verisign.com
 cicsensor.verisign.com
 circle.verisign.com
-citrix.verisign.com
 citrixsg.verisign.com
 clearing.verisign.com
 click.messages.verisign.com
@@ -80,9 +79,9 @@ globalcrossing.mss.verisign.com
 globalprotect.verisign.com
 goodmail.verisign.com
 goofy.verisign.com
-gp-fri.verisign.com
 gp-mel.verisign.com
 gp-sars.verisign.com
+gp-sars.verisign.webcon.verisign.com
 gp-test.verisign.com
 gp-web.verisign.com
 gp.verisign.com
@@ -175,7 +174,6 @@ mra.verisign.com
 mssportal.verisign.com
 musketeer.verisign.com
 mybetter.verisign.com
-mydevice.verisign.com
 mywebsite.verisign.com
 netexch.clearing.verisign.com
 nrd.verisign.com
@@ -266,14 +264,12 @@ ro-otp.verisign.com
 ro.verisign.com
 roaminghub.verisign.com
 robin.verisign.com
-rss.verisign.com
 rtma.verisign.com
 safari.verisign.com
 salesportal.verisign.com
 savannah.verisign.com
 scs-test.verisign.com
 search.verisign.com
-sentinel.verisign.com
 services.mss.verisign.com
 ses.clearing.verisign.com
 sip.corparch.verisign.com
@@ -282,6 +278,8 @@ sipaccess-dr.verisign.com
 sipaccess.verisign.com
 sipexternal.verisign.com
 skylark.verisign.com
+smetricgp-fri.verisign.com
+smetricrss.verisign.com
 smetrics.verisign.com
 smtp.verisign.com
 soaprod.verisign.com
@@ -332,7 +330,6 @@ vsc.verisign.com
 vts.verisign.com
 vulnerabilityscanning.mss.verisign.com
 vulture.verisign.com
-webcon.verisign.com
 webconf-dr.verisign.com
 webconf.verisign.com
 webexteams.verisign.com
