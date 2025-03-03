@@ -23,6 +23,7 @@ brn1mailers.verisign.com
 buzzard.verisign.com
 byod-portal.verisign.com
 c42.verisign.com
+cRL.verisign.com
 caladan.verisign.com
 cap.verisign.com
 careers.verisign.com
@@ -90,6 +91,7 @@ graphicslibrary.verisign.com
 gwiz.verisign.com
 hal9000.verisign.com
 helpdesk.verisign.com
+helpdesk.verwww.research.verisign.com
 heron.verisign.com
 host-110.verisign.com
 icentral.verisign.com
@@ -166,7 +168,6 @@ minnie.verisign.com
 ml1.verisign.com
 mmadmin-enroll.verisign.com
 mmadmin-manager.verisign.com
-mmadmin.verisign.com
 mms-demo.verisign.com
 mms.verisign.com
 mmsmonitor-demo.verisign.com
@@ -345,7 +346,6 @@ whois.verisign.com
 workbench.mss.verisign.com
 www.gslb.verisign.com
 www.mywebsite.verisign.com
-www.research.verisign.com
 www.roamerview-radius.verisign.com
 www.securemobile.verisign.com
 www.verisign.com
