@@ -1,7 +1,7 @@
+.verisign.com
 access.verisign.com
 accounts-otp.verisign.com
 accounts.verisign.com
-accountsdr.verisign.com
 alerts.verisign.com
 alertus.verisign.com
 andaman.verisign.com
@@ -14,7 +14,6 @@ avedge-dr.verisign.com
 avedge.verisign.com
 blog.verisign.com
 blogs.verisign.com
-brandcenter.verisign.com
 brn1lxmailin01.verisign.com
 brn1lxmailin02.verisign.com
 brn1lxmailout01.verisign.com
@@ -109,6 +108,8 @@ ispcenter-admin.verisign.com
 ispcenter-enroll.verisign.com
 ispcenter.verisign.com
 ispservices.verisign.com
+ispservices.verisign.comaccountsdr.verisign.com
+ispservices.verisign.combrandcenter.verisign.com
 jamf.verisign.com
 jamfdev.verisign.com
 jinf.verisign.com
@@ -154,6 +155,7 @@ marketing.verisign.com
 mdm.corparch.verisign.com
 mdm1.verisign.com
 mdmuat.verisign.com
+mdmz.verisign.com
 meetings-webex.verisign.com
 mem-dr.verisign.com
 mem.verisign.com
@@ -254,7 +256,6 @@ publicdnsforum.verisign.com
 qa4-api.verisign.com
 qaweb.verisign.com
 quasar.verisign.com
-query.verisign.com
 rdap.verisign.com
 rds.verisign.com
 request.verisign.com
