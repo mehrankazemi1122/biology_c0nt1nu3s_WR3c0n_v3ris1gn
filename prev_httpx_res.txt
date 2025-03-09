@@ -48,4 +48,3 @@ https://view.messages.verisign.com [302,200] [Error] [https://view.messages.veri
 https://webwhois.verisign.com [302,200] [Whois] [https://webwhois.verisign.com/webwhois-ui/index.jsp] [Apache HTTP Server,Bootstrap,HSTS,Handlebars:4.7.7,Java,OneTrust,jQuery,reCAPTCHA]
 https://welcome.verisign.com [200] [Apache HTTP Server,HSTS]
 https://www.gslb.verisign.com [200] [Apache HTTP Server,HSTS]
-https://www.verisign.com [200] [Verisign is a global provider of domain name registry services and internet infrastructure - Verisign] [Apache HTTP Server,HSTS,Java,OneTrust]
