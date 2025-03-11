@@ -50,7 +50,6 @@ dbms.verisign.com
 desktopsupport.verisign.com
 developer.verisign.com
 dm.verisign.com
-dnssecforum.verisign.com
 dodeca.verisign.com
 dullmxout01.corparch.verisign.com
 dw.ses.clearing.verisign.com
@@ -58,7 +57,6 @@ e-lync-dir.verisign.com
 eagle.verisign.com
 eim.verisign.com
 elearning.verisign.com
-email.gh-mail.verisign.com
 entsecurity.verisign.com
 eol-redirect.verisign.com
 epcdev.verisign.com
@@ -173,13 +171,11 @@ mmsmonitor-demo.verisign.com
 mobile.corparch.verisign.com
 mra.verisign.com
 mssportal.verisign.com
-musketeer.verisign.com
 mybetter.verisign.com
 mydevice.verisign.com
 mywebsite.verisign.com
 netexch.clearing.verisign.com
 nrd.verisign.com
-nrdz.verisign.com
 ns1.verisign.com
 ns10.verisign.com
 ns12.verisign.com
@@ -214,8 +210,8 @@ ns4.verisign.com
 ns40.verisign.com
 ns7.verisign.com
 ns8.verisign.com
-nsw-api.verisign.com
 nsw-config.verisign.com
+nsw-service.verisigemail.gh-mail.verisign.com
 nsw-service.verisign.com
 nswm-service.verisign.com
 ocsp.verisign.com
@@ -282,7 +278,6 @@ sipaccess-dr.verisign.com
 sipaccess.verisign.com
 sipexternal.verisign.com
 skylark.verisign.com
-smetrics.verisign.com
 smtp.verisign.com
 soaprod.verisign.com
 spark.verisign.com
@@ -339,7 +334,6 @@ webexteams.verisign.com
 webidentity.verisign.com
 webmail.corparch.verisign.com
 webnum.verisign.com
-webwhois.verisign.com
 welcome.verisign.com
 whois.verisign.com
 workbench.mss.verisign.com
