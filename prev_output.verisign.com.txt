@@ -140,13 +140,11 @@ mailer1.verisign.com
 mailer2.verisign.com
 mailer3.verisign.com
 mailer4.verisign.com
-mailer5.verisign.com
 mailer6.verisign.com
 mailhost.verisign.com
 mailhost1.verisign.com
 mailhost2.verisign.com
 mailhost3.verisign.com
-mailhosteu.verisign.com
 maintenance.verisign.com
 maple.verisign.com
 mapleleaf.verisign.com
@@ -191,11 +189,8 @@ ns17.verisign.com
 ns18.verisign.com
 ns19.verisign.com
 ns2.verisign.com
-ns20.verisign.com
 ns21.verisign.com
 ns22.verisign.com
-ns25.verisign.com
-ns26.verisign.com
 ns27.verisign.com
 ns28.verisign.com
 ns29.verisign.com
@@ -221,6 +216,7 @@ nswm-service.verisign.com
 ocsp.verisign.com
 ocwa.verisign.com
 onetrust.verisign.com
+onlinecontracts-security-services.verisign.com
 onsitecrl.verisign.com
 orientation.verisign.com
 origin.blog.verisign.com
@@ -240,8 +236,6 @@ peregrine.verisign.com
 pi.verisign.com
 pic.verisign.com
 pigeon.verisign.com
-pilot-buyerauth-post.verisign.com
-pilot-buyerauth.verisign.com
 pilot-cxml-xmlpay.verisign.com
 pilot-rms.verisign.com
 pilotpayments.verisign.com
@@ -322,7 +316,6 @@ vdpsreports.verisign.com
 vendorportal.verisign.com
 vendorsupport.verisign.com
 verified-domains.verisign.com
-view.messages.verisign.com
 vpn-brn.verisign.com
 vpn-mel.verisign.com
 vpn.verisign.com
@@ -346,7 +339,6 @@ www.gslb.verisign.com
 www.mywebsite.verisign.com
 www.research.verisign.com
 www.roamerview-radius.verisign.com
-www.securemobile.verisign.com
 www.verisign.com
 www.webbusiness.verisign.com
 www.yourdomain.verisign.com
