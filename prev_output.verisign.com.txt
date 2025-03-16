@@ -8,13 +8,11 @@ andaman.verisign.com
 apollo.verisign.com
 artemis.verisign.com
 att.mss.verisign.com
-autodiscover.corparch.verisign.com
 av.verisign.com
 avedge-dr.verisign.com
 avedge.verisign.com
 blog.verisign.com
 blogs.verisign.com
-brandcenter.verisign.com
 brn1lxmailin01.verisign.com
 brn1lxmailin02.verisign.com
 brn1lxmailout01.verisign.com
@@ -30,6 +28,7 @@ ccprocessing.verisign.com
 cic.verisign.com
 cicsensor.verisign.com
 circle.verisign.com
+citrix.verisign.com
 citrixsg.verisign.com
 clearing.verisign.com
 click.messages.verisign.com
@@ -135,6 +134,7 @@ mail3.verisign.com
 mail4.verisign.com
 mail5.verisign.com
 mail6.verisign.com
+mailer1.verisign.com
 mailer2.verisign.com
 mailer3.verisign.com
 mailer4.verisign.com
@@ -204,7 +204,6 @@ ns32.verisign.com
 ns33.verisign.com
 ns34.verisign.com
 ns35.verisign.com
-ns36.verisign.com
 ns37.verisign.com
 ns38.verisign.com
 ns39.verisign.com
@@ -216,7 +215,6 @@ nsw-api.verisign.com
 nsw-config.verisign.com
 nsw-service.verisign.com
 nswm-service.verisign.com
-ocsp.verisign.com
 ocwa.verisign.com
 onetrust.verisign.com
 onlinecontracts-security-services.verisign.com
@@ -225,7 +223,6 @@ orientation.verisign.com
 origin.blog.verisign.com
 osprey.verisign.com
 ote-accounts-otp.verisign.com
-ote-cube.verisign.com
 ote-login-otp.verisign.com
 ote-login.verisign.com
 overlord.verisign.com
@@ -257,6 +254,7 @@ query.verisign.com
 rdap.verisign.com
 rds.verisign.com
 request.verisign.com
+reseaocsp.verisign.com
 research.verisign.com
 rms.verisign.com
 rnr.verisign.com
@@ -317,10 +315,10 @@ v-lync.verisign.com
 validation.verisign.com
 validation2.verisign.com
 vdps.verisign.com
-vdpsreports.verisign.com
 vendorportal.verisign.com
 vendorsupport.verisign.com
 verified-domains.verisign.com
+verisign.com
 view.messages.verisign.com
 vpn-brn.verisign.com
 vpn-mel.verisign.com
@@ -328,7 +326,6 @@ vpn.verisign.com
 vps-psc.verisign.com
 vsc.verisign.com
 vts.verisign.com
-vulnerabilityscanning.mss.verisigmailer1.verisign.com
 vulnerabilityscanning.mss.verisign.com
 vulture.verisign.com
 webcon.verisign.com
@@ -349,6 +346,7 @@ www.roamerview-radius.verisign.com
 www.securemobile.verisign.com
 www.verisign.com
 www.webbusiness.verisign.com
+www.webbusinessns36.verisign.com
 www.yourdomain.verisign.com
 xml-reg.verisign.com
 xmpp-dr.verisign.com
