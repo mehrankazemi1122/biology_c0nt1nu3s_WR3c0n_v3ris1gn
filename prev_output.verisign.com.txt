@@ -2,7 +2,6 @@ access.verisign.com
 accounts-otp.verisign.com
 accounts.verisign.com
 accountsdr.verisign.com
-ailer6.verisign.com
 alerts.verisign.com
 alertus.verisign.com
 andaman.verisign.com
@@ -59,6 +58,7 @@ e-lync-dir.verisign.com
 eagle.verisign.com
 eim.verisign.com
 elearning.verisign.com
+email.gh-mail.verisign.com
 entsecurity.verisign.com
 eol-redirect.verisign.com
 epcdev.verisign.com
@@ -86,7 +86,6 @@ gp-sars.verisign.com
 gp-test.verisign.com
 gp-web.verisign.com
 gp.verisign.com
-graphicslibrary.verisign.com
 gwiz.verisign.com
 hal9000.verisign.com
 helpdesk.verisign.com
@@ -118,7 +117,6 @@ joshua.verisign.com
 labs.verisign.com
 legacy.corparch.verisign.com
 legacy.verisign.com
-login-otp.verisign.com
 login.gslb.verisign.com
 login.verisign.com
 logindr.verisign.com
@@ -141,6 +139,7 @@ mailer2.verisign.com
 mailer3.verisign.com
 mailer4.verisign.com
 mailer5.verisign.com
+mailer6.verisign.com
 mailhost.verisign.com
 mailhost1.verisign.com
 mailhost2.verisign.com
@@ -214,8 +213,10 @@ ns40.verisign.com
 ns7.verisign.com
 ns8.verisign.com
 nsw-api.verisign.com
+nsw-config.verisign.com
 nsw-service.verisign.com
 nswm-service.verisign.com
+ocsp.verisign.com
 ocwa.verisign.com
 onetrust.verisign.com
 onlinecontracts-security-services.verisign.com
@@ -266,10 +267,7 @@ robin.verisign.com
 rss.verisign.com
 rtma.verisign.com
 safari.verisign.com
-salemail.gh-mail.verisign.com
 salesportal.verisign.com
-salnsw-config.verisign.com
-salocsp.verisign.com
 savannah.verisign.com
 scs-test.verisign.com
 search.verisign.com
