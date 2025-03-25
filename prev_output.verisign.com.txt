@@ -22,7 +22,6 @@ brn1lxmailout02.verisign.com
 brn1mailers.verisign.com
 buzzard.verisign.com
 byod-portal.verisign.com
-c42.verisign.com
 caladan.verisign.com
 cap.verisign.com
 careers.verisign.com
@@ -95,7 +94,6 @@ host-110.verisign.com
 icentral.verisign.com
 icms.verisign.com
 infocenter.verisign.com
-informationportal.verisign.com
 infosecgrc.verisign.com
 internap.mss.verisign.com
 international.verisign.com
@@ -124,7 +122,6 @@ login.verisign.com
 logindr.verisign.com
 lwas.verisign.com
 lws-ext.corparch.verisign.com
-lws-ext.verisign.com
 lyncdiscover.corparch.verisign.com
 lyncdiscover.verisign.com
 lyncedge-ext.corparch.verisign.com
@@ -144,6 +141,7 @@ mailer5.verisign.com
 mailer6.verisign.com
 mailhost.verisign.com
 mailhost1.verisign.com
+mailhost1.verisilws-ext.verisign.com
 mailhost2.verisign.com
 mailhost3.verisign.com
 mailhosteu.verisign.com
