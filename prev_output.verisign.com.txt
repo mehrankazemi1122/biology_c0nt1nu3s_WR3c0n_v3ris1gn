@@ -50,6 +50,7 @@ dbms.verisign.com
 desktopsupport.verisign.com
 developer.verisign.com
 dm.verisign.com
+dnssecforum.verisign.com
 dodeca.verisign.com
 dullmxout01.corparch.verisign.com
 dw.ses.clearing.verisign.com
@@ -74,6 +75,7 @@ gateway.verisign.com
 gateway1.verisign.com
 gateway2.verisign.com
 gateway3.verisign.com
+gladiator.verisign.com
 globalcrossing.mss.verisign.com
 globalprotect.verisign.com
 goodmail.verisign.com
@@ -281,7 +283,6 @@ sipaccess.verisign.com
 sipexternal.verisign.com
 skylark.verisign.com
 smetrics.verisign.com
-smetstatuschange.verisign.com
 smtp.verisign.com
 soaprod.verisign.com
 spark.verisign.com
@@ -293,6 +294,7 @@ sss.verisign.com
 stargate.verisign.com
 startonline.verisign.com
 status.verisign.com
+statuschange.verisign.com
 styleguide.verisign.com
 sun.mss.verisign.com
 support-otp.verisign.com
@@ -330,7 +332,6 @@ vsc.verisign.com
 vts.verisign.com
 vulnerabilityscanning.mss.verisign.com
 vulture.verisign.com
-webcon.verisign.com
 webconf-dr.verisign.com
 webconf.verisign.com
 webexteams.verisign.com
@@ -343,9 +344,9 @@ whois.verisign.com
 workbench.mss.verisign.com
 www.gslb.verisign.com
 www.mywebsite.verisign.com
+www.mywebsite.webcon.verisign.com
 www.research.verisign.com
 www.roamerview-radius.verisign.com
-www.securemobile.verisign.com
 www.verisign.com
 www.webbusiness.verisign.com
 www.yourdomain.verisign.com
