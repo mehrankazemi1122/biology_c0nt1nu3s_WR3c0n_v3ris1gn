@@ -191,7 +191,6 @@ ns17.verisign.com
 ns18.verisign.com
 ns19.verisign.com
 ns2.verisign.com
-ns20.verisign.com
 ns21.verisign.com
 ns22.verisign.com
 ns25.verisign.com
