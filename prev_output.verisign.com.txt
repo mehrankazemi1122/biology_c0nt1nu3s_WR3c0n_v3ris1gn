@@ -3,6 +3,7 @@ accounts-otp.verisign.com
 accounts.verisign.com
 accountsdr.verisign.com
 alerts.verisign.com
+alertus.verisign.com
 andaman.verisign.com
 apollo.verisign.com
 artemis.verisign.com
@@ -43,6 +44,7 @@ crow.verisign.com
 cube.verisign.com
 customer-center.verisign.com
 customercenter.verisign.com
+cxml-xmlpay.verisign.com
 dbm.verisign.com
 dbms.verisign.com
 desktopsupport.verisign.com
@@ -52,10 +54,12 @@ dnssecforum.verisign.com
 dodeca.verisign.com
 dullmxout01.corparch.verisign.com
 dw.ses.clearing.verisign.com
+e-lync-dir.verisign.com
 eagle.verisign.com
 eim.verisign.com
 elearning.verisign.com
 email.gh-mail.verisign.com
+entsecurity.verisign.com
 eol-redirect.verisign.com
 epcdev.verisign.com
 er.verisign.com
@@ -91,6 +95,7 @@ host-110.verisign.com
 icentral.verisign.com
 icms.verisign.com
 infocenter.verisign.com
+informationportal.verisign.com
 infosecgrc.verisign.com
 internap.mss.verisign.com
 international.verisign.com
@@ -144,6 +149,7 @@ mailhost3.verisign.com
 mailhosteu.verisign.com
 maintenance.verisign.com
 maple.verisign.com
+mapleleaf.verisign.com
 marketing.verisign.com
 mdm.corparch.verisign.com
 mdm1.verisign.com
@@ -236,7 +242,7 @@ pi.verisign.com
 pic.verisign.com
 pigeon.verisign.com
 pilot-buyerauth-post.verisign.com
-pilot-cxml-xmlpay.verientsecurity.verisign.com
+pilot-buyerauth.verisign.com
 pilot-cxml-xmlpay.verisign.com
 pilot-rms.verisign.com
 pilotpayments.verisign.com
@@ -283,7 +289,6 @@ spark.verisign.com
 square.verisign.com
 sslftp.verisign.com
 sso.verisign.com
-sss-uat.verisign.com
 sss.verisign.com
 stargate.verisign.com
 startonline.verisign.com
@@ -311,6 +316,7 @@ user-apis.verisign.com
 usertesting.verisign.com
 v-lync.verisign.com
 validation.verisign.com
+validation2.verisign.com
 vdps.verisign.com
 vdpsreports.verisign.com
 vendorportal.verisign.com
@@ -330,7 +336,6 @@ webconf-dr.verisign.com
 webconf.verisign.com
 webexteams.verisign.com
 webidentity.verisign.com
-webmail.corparch.verisign.com
 webnum.verisign.com
 webwhois.verisign.com
 welcome.verisign.com
