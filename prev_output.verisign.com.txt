@@ -239,6 +239,7 @@ peacock.verisign.com
 pelican.verisign.com
 peregrine.verisign.com
 pi.verisign.com
+pic.verisign.com
 pigeon.verisign.com
 pilot-buyerauth-post.verisign.com
 pilot-buyerauth.verisign.com
