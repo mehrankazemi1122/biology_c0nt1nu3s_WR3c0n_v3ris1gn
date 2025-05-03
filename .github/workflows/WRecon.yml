@@ -68,7 +68,9 @@ jobs:
         curl -s https://wordlists-cdn.assetnote.io/data/manual/2m-subdomains.txt -o 2m-subdomains.txt
         curl -s https://wordlists-cdn.assetnote.io/data/automated/httparchive_subdomains_2024_01_28.txt -o all_subs.txt
         curl -s https://media.githubusercontent.com/media/c3l3si4n/subdomain_data/refs/heads/main/common_nodes_6_occurrences.txt -o 7milsubs.txt
-        cat best-dns-wordlist.txt 2m-subdomains.txt 4_chars.txt all_subs.txt all combined1.txt combined2.txt kovo_subs.txt 7milsubs.txt | sort -u > subdomains-assetnote-merged.txt
+        curl -s https://raw.githubusercontent.com/mehrankazemi1122/biology_c0nt1nu3s_WR3c0n_N4mestud1o/refs/heads/main/spec_subs.txt -o spec_subs.txt
+
+        cat best-dns-wordlist.txt 2m-subdomains.txt 4_chars.txt all_subs.txt all combined1.txt combined2.txt kovo_subs.txt 7milsubs.txt spec_subs.txt | sort -u > subdomains-assetnote-merged.txt
         cat subdomains-assetnote-merged.txt | wc -l
         ls
         chmod +x script_shd.sh
