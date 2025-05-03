@@ -1,4 +1,5 @@
 access.verisign.com
+accounts-otp.verisign.com
 accounts.verisign.com
 accountsdr.verisign.com
 alerts.verisign.com
@@ -33,6 +34,7 @@ citrix.verisign.com
 citrixsg.verisign.com
 clearing.verisign.com
 click.messages.verisign.com
+colibri.verisign.com
 contentservices.verisign.com
 contentservices2.verisign.com
 corporate.verisign.com
@@ -247,9 +249,10 @@ pilotpayments.verisign.com
 pmg-acg-billing.verisign.com
 pmg.verisign.com
 pmg2.verisign.com
-porate.verisign.cqa4-api.verisign.com
 portal.mss.verisign.com
 pts.verisign.com
+publicdnsforum.verisign.com
+qa4-api.verisign.com
 qaweb.verisign.com
 quasar.verisign.com
 query.verisign.com
@@ -257,7 +260,6 @@ rdap.verisign.com
 rds.verisign.com
 request.verisign.com
 research.verisign.com
-rms.verisign.com
 rnr.verisign.com
 ro-otp.verisign.com
 ro.verisign.com
