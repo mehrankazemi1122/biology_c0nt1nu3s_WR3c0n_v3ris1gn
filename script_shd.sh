@@ -22,8 +22,16 @@ fi
 wordlist_file="$1"
 website_address="$2"
 
-# Step 1: Run shuffledns command
-shuffledns -w "$wordlist_file" -d "$website_address" -r resolvers.txt -m massdns/bin/massdns -o "output.${website_address}.txt" -mode bruteforce
+
+for ((i = 1; i <= 3; i++)); do
+    # Step 1: Run shuffledns command
+    shuffledns -w "$wordlist_file" -d "$website_address" -r resolvers.txt -m massdns/bin/massdns -o "output.${website_address}.txt" -mode bruteforce
+    cat output.${website_address}.txt >> temp.txt
+    echo "executed $i time"
+done
+
+cat temp.txt | sort -u > output.${website_address}.txt
+
 
 # Step 2: Filter lines containing the website address and update the output file
 grep "$website_address" "output.${website_address}.txt" > "output.${website_address}.filtered.txt" && mv "output.${website_address}.filtered.txt" "output.${website_address}.txt"
