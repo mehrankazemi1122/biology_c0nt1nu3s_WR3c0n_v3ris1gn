@@ -25,7 +25,7 @@ website_address="$2"
 
 for ((i = 1; i <= 3; i++)); do
     # Step 1: Run shuffledns command
-    shuffledns -w "$wordlist_file" -d "$website_address" -r resolvers.txt -m massdns/bin/massdns -o "output.${website_address}.txt" -t -mode bruteforce
+    shuffledns -w "$wordlist_file" -d "$website_address" -r resolvers.txt -m massdns/bin/massdns -o "output.${website_address}.txt" -mode bruteforce
     cat output.${website_address}.txt >> temp.txt
     echo "executed $i time"
 done
