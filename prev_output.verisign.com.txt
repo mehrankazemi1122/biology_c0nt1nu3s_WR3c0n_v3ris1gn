@@ -101,6 +101,7 @@ dpm001.ban4edc.verisign.com
 drm.intelligentcdn.verisign.com
 dullmxin01.corparch.verisign.com
 dullmxout01.corparch.verisign.com
+dw.ses.clearing.verisign.com
 e-lync-dir.verisign.com
 e01.hostedservices.verisign.com
 eagle.verisign.com
@@ -115,6 +116,7 @@ epcdev.verisign.com
 er.verisign.com
 esapoc1.corparch.verisign.com
 esapoc2.corparch.verisign.com
+esapoc3.corparch.verisign.com
 everest.verisign.com
 everest1.verisign.com
 everest2.verisign.com
@@ -134,7 +136,6 @@ globalprotect.verisign.com
 goodmail.verisign.com
 goofy.verisign.com
 govip.verisign.com
-gp-fri.verisign.com
 gp-mel.verisign.com
 gp-sars.verisign.com
 gp-test.verisign.com
@@ -200,6 +201,8 @@ lookup2.intelligentcdn.verisign.com
 lookup3.intelligentcdn.verisign.com
 lookup4.intelligentcdn.verisign.com
 lookup5.intelligentcdn.verisign.com
+lookup6.intelligentcdn.verisign.com
+lookup7.intelligentcdn.verisign.com
 lookup8.intelligentcdn.verisign.com
 lookupadm1.intelligentcdn.verisign.com
 lookupadm2.intelligentcdn.verisign.com
@@ -208,6 +211,8 @@ lookupadm4.intelligentcdn.verisign.com
 lookupadm5.intelligentcdn.verisign.com
 lookupadm7.intelligentcdn.verisign.com
 lookupadm8.intelligentcdn.verisign.com
+lookupalookupadm6.intelligentcdn.verisign.com
+lookupamail4.verisign.com
 lwas.verisign.com
 lws-ext.corparch.verisign.com
 lws-ext.verisign.com
@@ -223,7 +228,6 @@ mail01.marketing.verisign.com
 mail1.verisign.com
 mail2.verisign.com
 mail3.verisign.com
-mail4.verisign.com
 mail5.verisign.com
 mail6.verisign.com
 mailer1.verisign.com
@@ -335,7 +339,6 @@ ocwa.verisign.com
 onetrust.verisign.com
 onlinecontracts-namingservices.verisign.com
 onlinecontracts-security-services.verisign.com
-onlinecontradw.ses.clearing.verisign.com
 onsite-notarization.verisign.com
 onsitecrl.verisign.com
 orientation.verisign.com
@@ -345,7 +348,6 @@ ote-accounts-otp.verisign.com
 ote-accounts.verisign.com
 ote-accountsdr-otp.verisign.com
 ote-accountsdr.verisign.com
-ote-cube.verisign.com
 ote-login-otp.verisign.com
 ote-login.verisign.com
 ote-logindr-otp.verisign.com
@@ -354,11 +356,11 @@ ote-m.domainscope.verisign.com
 outcollectbilling.verisign.com
 overlord.verisign.com
 owas.verisign.com
+pages.messages.verisign.com
 payment-support.verisign.com
 pciscanning.mss.verisign.com
 pds.verisign.com
 peacock.verisign.com
-peacoclookup7.intelligentcdn.verisign.com
 pelican.verisign.com
 peregrine.verisign.com
 pi.verisign.com
@@ -368,6 +370,7 @@ pilot-buyerauth-post.verisign.com
 pilot-buyerauth.verisign.com
 pilot-cxml-xmlpay.verisign.com
 pilot-rms.verisign.com
+pilotpaygp-fri.verisign.com
 pilotpayments.verisign.com
 pki-ocsp.verisign.com
 pmc.ban4edc.verisign.com
@@ -424,6 +427,7 @@ relay3.intelligentcdn.verisign.com
 relay4.intelligentcdn.verisign.com
 request.verisign.com
 research.verisign.com
+revl-prepay.verisign.com
 rirs.gslb.verisign.com
 rms.verisign.com
 rnr.verisign.com
@@ -440,6 +444,7 @@ savannah.verisign.com
 scs-test.verisign.com
 search-intranet.verisign.com
 search.verisign.com
+secgrc.verisign.com
 sentinel.verisign.com
 services.mss.verisign.com
 ses.clearing.verisign.com
@@ -454,6 +459,7 @@ sipexternal.verisign.com
 skylark.verisign.com
 smetrics.verisign.com
 smtp.verisign.com
+snsmonitor.verisign.com
 soaprod.verisign.com
 sockit.mss.verisign.com
 spark.verisign.com
