@@ -121,7 +121,6 @@ everest.verisign.com
 everest1.verisign.com
 everest2.verisign.com
 extranet.mss.verisign.com
-flookupadm7.intelligentcdn.verisign.com
 forms.verisign.com
 fpe.verisign.com
 ftp.mss.verisign.com
@@ -212,7 +211,7 @@ lookupadm3.intelligentcdn.verisign.com
 lookupadm4.intelligentcdn.verisign.com
 lookupadm5.intelligentcdn.verisign.com
 lookupadm6.intelligentcdn.verisign.com
-lookupadm8.intelligentcdn.verisign.com
+lookupadm7.intelligentcdn.verisign.com
 lwas.verisign.com
 lws-ext.corparch.verisign.com
 lws-ext.verisign.com
@@ -467,7 +466,6 @@ sprintpmg.verisign.com
 square.verisign.com
 sslftp.verisign.com
 sso.verisign.com
-sss-uat.verisign.com
 sss.verisign.com
 stargate.verisign.com
 startonline.verisign.com
@@ -519,6 +517,7 @@ verisignforms.verisign.com
 vhqonsite.verisign.com
 vics-sftp.verisign.com
 view.messages.verisign.com
+vlookupadm8.intelligentcdn.verisign.com
 votreidee.verisign.com
 vpn-brn.verisign.com
 vpn-fri.verisign.com
