@@ -26,6 +26,7 @@ https://j-root-servers-org.gslb.verisign.com [200] [How Verisign Operates Intern
 https://login-otp.verisign.com [404] [404 Not Found] [Apache HTTP Server]
 https://login.gslb.verisign.com [404] [404 Not Found] [Apache HTTP Server]
 https://login.verisign.com [404] [404 Not Found] [Apache HTTP Server]
+https://mem-dr.verisign.com [200] [HSTS]
 https://mem-lab.corparch.verisign.com [200] [HSTS]
 https://mem-uat.verisign.com [200] [HSTS]
 https://mem.verisign.com [200] [HSTS]
