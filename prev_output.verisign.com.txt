@@ -9,6 +9,7 @@ accounts.verisign.com
 accountsdr-otp.verisign.com
 accountsdr.verisign.com
 acgpmg-selfcare.verisign.com
+admin.contentportal.verisign.com
 admin.yuuzoo.contentportal.verisign.com
 airtel-alerts.ban4edc.verisign.com
 alerts.verisign.com
@@ -42,6 +43,7 @@ ccprocessing.verisign.com
 ccprocessing2.verisign.com
 certipath-aia.verisign.com
 cic.verisign.com
+cicsensor.verisign.com
 circle.verisign.com
 citrix.verisign.com
 citrixsg.verisign.com
@@ -60,6 +62,7 @@ contentservices7.verisign.com
 contentservices8.verisign.com
 corpfertr.verisign.com
 corpfertr2.verisign.com
+corporate.verisign.com
 cp.verisign.com
 cpamailer1.verisign.com
 crl.verisign.com
@@ -111,7 +114,6 @@ entsecurity.verisign.com
 eol-redirect.verisign.com
 epcdev.verisign.com
 er.verisign.com
-ers.verisign.com
 esapoc1.corparch.verisign.com
 esapoc2.corparch.verisign.com
 esapoc3.corparch.verisign.com
@@ -156,7 +158,6 @@ helpdesk.verisign.com
 heron.verisign.com
 host-110.verisign.com
 icentral.verisign.com
-icentraladmin.contentportal.verisign.com
 icms.verisign.com
 ilg1lxmailin01.verisign.com
 ilg1lxmailin02.verisign.com
@@ -344,13 +345,13 @@ onsitecrl.verisign.com
 orientation.verisign.com
 origin.blog.verisign.com
 osprey.verisign.com
+ote-accounts-oote-login.verisign.com
 ote-accounts-otp.verisign.com
 ote-accounts.verisign.com
 ote-accountsdr-otp.verisign.com
 ote-accountsdr.verisign.com
 ote-cube.verisign.com
 ote-login-otp.verisign.com
-ote-login.verisign.com
 ote-logindr-otp.verisign.com
 ote-logindr.verisign.com
 ote-m.domainscope.verisign.com
@@ -371,7 +372,6 @@ pilot-buyerauth-post.verisign.com
 pilot-buyerauth.verisign.com
 pilot-cxml-xmlpay.verisign.com
 pilot-rms.verisign.com
-pilotpavpssupport.verisign.com
 pilotpayments.verisign.com
 pki-ocsp.verisign.com
 pmc.ban4edc.verisign.com
@@ -403,7 +403,6 @@ push2talk03-call.verisign.com
 push2talk03-notify.verisign.com
 push2talk03-web.verisign.com
 qa-ciber.cleaing.verisign.com
-qa-contentservices.verisign.com
 qa-contentservices5.verisign.com
 qa-namestudio.verisign.com
 qa-web1.contentportal.verisign.com
@@ -498,7 +497,6 @@ uat-contentservices.verisign.com
 uat-gx2-mail-in.verisign.com
 uat-gx2-mail-out.verisign.com
 ued.verisign.com
-unav-otp.verisign.com
 unav.verisign.com
 unavapis.login-otp.verisign.com
 unavapis.login.verisign.com
@@ -526,6 +524,7 @@ vpn-ilg.verisign.com
 vpn-mel.verisign.com
 vpn.verisign.com
 vps-psc.verisign.com
+vpssupport.verisign.com
 vsc.verisign.com
 vts.verisign.com
 vtsdemo.verisign.com
