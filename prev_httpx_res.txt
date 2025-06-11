@@ -22,7 +22,6 @@ https://globalprotect.verisign.com [302,404] [https://globalprotect.verisign.com
 https://gp-test.verisign.com [302,404] [https://gp-test.verisign.com/global-protect/login.esp]
 https://gp-web.verisign.com [302,200] [GlobalProtect Portal] [https://gp-web.verisign.com/global-protect/login.esp] [Bootstrap,HSTS,jQuery]
 https://gp.verisign.com [302,404] [https://gp.verisign.com/global-protect/login.esp]
-https://j-root-servers-org.gslb.verisign.com [200] [How Verisign Operates Internet Root Servers – Verisign] [Apache HTTP Server,HSTS]
 https://login-otp.verisign.com [404] [404 Not Found] [Apache HTTP Server]
 https://login.gslb.verisign.com [404] [404 Not Found] [Apache HTTP Server]
 https://login.verisign.com [404] [404 Not Found] [Apache HTTP Server]
