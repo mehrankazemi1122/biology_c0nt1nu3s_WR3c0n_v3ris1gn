@@ -22,6 +22,7 @@ autodiscover.corparch.verisign.com
 av.verisign.com
 avedge-dr.verisign.com
 avedge.verisign.com
+ay.verisign.com
 ber1owa.verisign.com
 blog.verisign.com
 blogs.verisign.com
@@ -48,6 +49,7 @@ circle.verisign.com
 citrix.verisign.com
 citrixsg.verisign.com
 clearing.verisign.com
+click.messages.verisign.com
 clickthroughcontracts-security-services.verisign.com
 cloud.messages.verisign.com
 colibri.verisign.com
@@ -58,7 +60,6 @@ contentservices3.verisign.com
 contentservices5.verisign.com
 contentservices6.verisign.com
 contentservices7.verisign.com
-contentservices8.verisign.com
 corpfertr.verisign.com
 corpfertr2.verisign.com
 corporate.verisign.com
@@ -190,13 +191,11 @@ joshua.verisign.com
 knowledge-primus.verisign.com
 labs.verisign.com
 legacy.corparch.verisign.com
-legacy.verisign.com
 login-otp.verisign.com
 login.gslb.verisign.com
 login.verisign.com
 logindr-otp.verisign.com
 logindr.verisign.com
-lookup1.ilookupadm5.intelligentcdn.verisign.com
 lookup1.intelligentcdn.verisign.com
 lookup2.intelligentcdn.verisign.com
 lookup3.intelligentcdn.verisign.com
@@ -209,6 +208,7 @@ lookupadm1.intelligentcdn.verisign.com
 lookupadm2.intelligentcdn.verisign.com
 lookupadm3.intelligentcdn.verisign.com
 lookupadm4.intelligentcdn.verisign.com
+lookupadm5.intelligentcdn.verisign.com
 lookupadm6.intelligentcdn.verisign.com
 lookupadm7.intelligentcdn.verisign.com
 lookupadm8.intelligentcdn.verisign.com
@@ -221,6 +221,7 @@ lyncedge-ext.corparch.verisign.com
 lyncrp.verisign.com
 m-admin.contentportal.verisign.com
 m-quality-web1.contentportal.verisign.com
+m-wap1.contentportal.verisign.com
 m-web1.contentportal.verisign.com
 mail01.marketing.verisign.com
 mail1.verisign.com
@@ -247,6 +248,7 @@ maple.verisign.com
 mapleleaf.verisign.com
 marketing.verisign.com
 mdm.corparch.verisign.com
+mdm1.verisign.cocontentservices8.verisign.com
 mdm1.verisign.com
 mdmuat.verisign.com
 mdmz.verisign.com
@@ -316,7 +318,6 @@ ns3.verisign.com
 ns30.verisign.com
 ns31.verisign.com
 ns32.verisign.com
-ns32.verisign.comtopup.adm.verisign.com
 ns33.verisign.com
 ns34.verisign.com
 ns35.verisign.com
@@ -402,9 +403,10 @@ push2talk03-call.verisign.com
 push2talk03-notify.verisign.com
 push2talk03-web.verisign.com
 qa-ciber.cleaing.verisign.com
-qa-contentservices.verisign.qa-web1.contentportal.verisign.com
+qa-contentservices.verisign.com
 qa-contentservices5.verisign.com
 qa-namestudio.verisign.com
+qa-web1.contentportal.verisign.com
 qa.domainscope.verisign.com
 qa1-recweb.verisign.com
 qa4-api.verisign.com
@@ -484,6 +486,7 @@ thebes.verisign.com
 tld-rdap.verisign.com
 tld-webwhois.verisign.com
 tltx-prepay.verisign.com
+topup.adm.verisign.com
 topup.verisign.com
 trackers.verisign.com
 translations.verisign.com
