@@ -61,7 +61,5 @@ https://unavapis.login.verisign.com [301,200] [https://unavapis.login.verisign.c
 https://view.messages.verisign.com [302,200] [Error] [https://view.messages.verisign.com/Error.aspx] [HSTS,Microsoft Visual Studio]
 https://votreidee.verisign.com [200] [Apache HTTP Server,HSTS]
 https://webwhois.verisign.com [302,200] [Whois] [https://webwhois.verisign.com/webwhois-ui/index.jsp] [Apache HTTP Server,Bootstrap,HSTS,Handlebars:4.7.7,Java,OneTrust,jQuery:3.5.1,reCAPTCHA]
-https://welcome.verisign.com [200] [Apache HTTP Server,HSTS]
 https://www-verisigninc.gslb.verisign.com [200] [Apache HTTP Server,HSTS]
-https://www.gslb.verisign.com [200] [Apache HTTP Server,HSTS]
 https://www.verisign.com [200] [Verisign is a global provider of domain name registry services and internet infrastructure - Verisign] [Apache HTTP Server,HSTS,OneTrust]
