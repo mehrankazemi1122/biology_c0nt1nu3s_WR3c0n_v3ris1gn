@@ -1,3 +1,4 @@
+-xmlpay.verisign.com
 10g2-2.r1.mia1.verisign.com
 11i-prod.verisign.com
 a-root-servers-org.gslb.verisign.com
@@ -149,6 +150,7 @@ gslb.shared-fo.fri2.verisign.com
 gslb.shared-fo.ilg1.verisign.com
 gslb1.shared-fo.fri2.verisign.com
 gslb2.shared-fo.fri2.verisign.com
+gslb2.shared-fo.fri2.verisigqa.domainscope.verisign.com
 gwiz.verisign.com
 h7.s185.mhp-fo.ilg1.verisign.com
 h87.s239.verisign.com
@@ -237,7 +239,6 @@ mailer3.ec.verisign.com
 mailer3.verisign.com
 mailer4.verisign.com
 mailer5.verisign.com
-mailer5.vmybetter.verisign.com
 mailer6.verisign.com
 mailhost.verisign.com
 mailhost1.verisign.com
@@ -282,6 +283,7 @@ mssportal.verisign.com
 mstrgrid1.intelligentcdn.verisign.com
 mstrgrid2.intelligentcdn.verisign.com
 musketeer.verisign.com
+mybetter.verisign.com
 mydevice.verisign.com
 mywebsite.verisign.com
 nat.colo-fo.brn1.verisign.com
@@ -407,7 +409,6 @@ qa-contentservices.verisign.com
 qa-contentservices5.verisign.com
 qa-namestudio.verisign.com
 qa-web1.contentportal.verisign.com
-qa.domainscope.verisign.com
 qa1-recweb.verisign.com
 qa4-api.verisign.com
 qaweb.verisign.com
@@ -546,7 +547,6 @@ webmail.corparch.verisign.com
 webnum.verisign.com
 webproxydr-otp.verisign.com
 webproxydr.verisign.com
-website.verisign.com
 webwhois.verisign.com
 welcome.verisign.com
 whois.verisign.com
