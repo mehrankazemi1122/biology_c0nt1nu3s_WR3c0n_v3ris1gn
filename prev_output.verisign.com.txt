@@ -1,6 +1,6 @@
--xmlpay.verisign.com
 10g2-2.r1.mia1.verisign.com
 11i-prod.verisign.com
+ApoLLO.verisign.com
 a-root-servers-org.gslb.verisign.com
 acbb-bits.mss.verisign.com
 access.corparch.verisign.com
@@ -150,7 +150,6 @@ gslb.shared-fo.fri2.verisign.com
 gslb.shared-fo.ilg1.verisign.com
 gslb1.shared-fo.fri2.verisign.com
 gslb2.shared-fo.fri2.verisign.com
-gslb2.shared-fo.fri2.verisigqa.domainscope.verisign.com
 gwiz.verisign.com
 h7.s185.mhp-fo.ilg1.verisign.com
 h87.s239.verisign.com
@@ -163,7 +162,6 @@ icentral.verisign.com
 icms.verisign.com
 ilg1lxmailin01.verisign.com
 ilg1lxmailin02.verisign.com
-ilg1mailers.verisign.com
 infocenter.verisign.com
 informationportal.verisign.com
 infosecgrc.verisign.com
@@ -409,6 +407,7 @@ qa-contentservices.verisign.com
 qa-contentservices5.verisign.com
 qa-namestudio.verisign.com
 qa-web1.contentportal.verisign.com
+qa.domainscope.verisign.com
 qa1-recweb.verisign.com
 qa4-api.verisign.com
 qaweb.verisign.com
