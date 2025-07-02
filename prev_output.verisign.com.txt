@@ -165,6 +165,7 @@ ilg1mailers.verisign.com
 infocenter.verisign.com
 informationportal.verisign.com
 infosecgrc.verisign.com
+ingest.intelligentcdn.verisign.com
 int-pmg-mm4.verisign.com
 int-pmg-smtp.verisign.com
 internap.mss.verisign.com
@@ -202,7 +203,6 @@ lookup3.intelligentcdn.verisign.com
 lookup4.intelligentcdn.verisign.com
 lookup5.intelligentcdn.verisign.com
 lookup6.intelligentcdn.verisign.com
-lookup7.intelligentcdn.verisigingest.intelligentcdn.verisign.com
 lookup7.intelligentcdn.verisign.com
 lookup8.intelligentcdn.verisign.com
 lookupadm1.intelligentcdn.verisign.com
@@ -509,6 +509,7 @@ usertesting.verisign.com
 v-lync.verisign.com
 validation.verisign.com
 validation2.verisign.com
+vdps.verisign.com
 vdpsreports.verisign.com
 vendorportal.verisign.com
 vendorsupport.verisign.com
@@ -516,6 +517,7 @@ verified-domains.verisign.com
 verisign-demo.verisign.com
 verisignforms.verisign.com
 vhqonsite.verisign.com
+vics-sftp.verisign.com
 view.messages.verisign.com
 votreidee.verisign.com
 vpn-brn.verisign.com
