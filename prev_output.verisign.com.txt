@@ -200,13 +200,13 @@ logindr.verisign.com
 lookup1.intelligentcdn.verisign.com
 lookup2.intelligentcdn.verisign.com
 lookup3.intelligentcdn.verisign.com
-lookup4.intelligentcdn.verisign.com
 lookup5.intelligentcdn.verisign.com
 lookup6.intelligentcdn.verisign.com
 lookup7.intelligentcdn.verisign.com
 lookup8.intelligentcdn.verisign.com
 lookupadm1.intelligentcdn.verisign.com
 lookupadm2.intelligentcdn.verisign.com
+lookupadm2.intelligentcdn.verweb1.contentportal.verisign.com
 lookupadm3.intelligentcdn.verisign.com
 lookupadm4.intelligentcdn.verisign.com
 lookupadm5.intelligentcdn.verisign.com
@@ -218,7 +218,6 @@ lws-ext.corparch.verisign.com
 lws-ext.verisign.com
 lyncdiscover.corparch.verisign.com
 lyncdiscover.verisign.com
-lyncdiscoverqa.domainscope.verisign.com
 lyncedge-ext.corparch.verisign.com
 lyncrp.verisign.com
 m-admin.contentportal.verisign.com
@@ -408,6 +407,7 @@ qa-contentservices.verisign.com
 qa-contentservices5.verisign.com
 qa-namestudio.verisign.com
 qa-web1.contentportal.verisign.com
+qa.domainscope.verisign.com
 qa1-recweb.verisign.com
 qa4-api.verisign.com
 qaweb.verisign.com
@@ -515,6 +515,7 @@ vendorportal.verisign.com
 vendorsupport.verisign.com
 verified-domains.verisign.com
 verisign-demo.verisign.com
+verisign.com
 verisignforms.verisign.com
 vhqonsite.verisign.com
 vics-sftp.verisign.com
@@ -533,10 +534,8 @@ vtsdemo.verisign.com
 vulnerabilityscanning.mss.verisign.com
 vulture.verisign.com
 wap.yuuzoo.contentportal.verisign.com
-wap1.contentportal.verisign.com
 web.intelligentcdn.verisign.com
 web.yuuzoo.contentportal.verisign.com
-web1.contentportal.verisign.com
 webcon.verisign.com
 webconf-dr.verisign.com
 webconf.verisign.com
