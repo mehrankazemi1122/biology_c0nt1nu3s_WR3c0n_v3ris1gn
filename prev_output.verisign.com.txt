@@ -61,7 +61,6 @@ contentservices6.verisign.com
 contentservices7.verisign.com
 contentservices8.verisign.com
 corpfertr.verisign.com
-corpfertr2.verisign.com
 corporate.verisign.com
 cp.verisign.com
 cpamailer1.verisign.com
@@ -69,7 +68,12 @@ crl.verisign.com
 crow.verisign.com
 csc3-2009-aia.verisign.com
 csc3-2009-crl.verisign.com
+csc3-2010-aia.vcorpfertr2.verisign.com
 csc3-2010-aia.verisign.com
+csc3-2010-aia.veverest.verisign.com
+csc3-2010-aia.veverest1.verisign.com
+csc3-2010-aia.veverest2.verisign.com
+csc3-2010-aia.vios.verisign.com
 csc3-2010-crl.verisign.com
 csr.dnssecpro.verisign.com
 cube.verisign.com
@@ -114,12 +118,10 @@ entsecurity.verisign.com
 eol-redirect.verisign.com
 epcdev.verisign.com
 er.verisign.com
+er1owa.verisign.com
 esapoc1.corparch.verisign.com
 esapoc2.corparch.verisign.com
 esapoc3.corparch.verisign.com
-everest.verisign.com
-everest1.verisign.com
-everest2.verisign.com
 extranet.mss.verisign.com
 forms.verisign.com
 fpe.verisign.com
@@ -173,7 +175,6 @@ international.verisign.com
 intranet-1.verisign.com
 intranet-2.verisign.com
 investor.verisign.com
-ios.verisign.com
 ipconnect.verisign.com
 ips.verisign.com
 iroam-reports.verisign.com
@@ -192,6 +193,7 @@ knowledge-primus.verisign.com
 labs.verisign.com
 legacy.corparch.verisign.com
 legacy.verisign.com
+legacy.verisigsalesportal.verisign.com
 login-otp.verisign.com
 login.gslb.verisign.com
 login.verisign.com
@@ -205,6 +207,7 @@ lookup5.intelligentcdn.verisign.com
 lookup6.intelligentcdn.verisign.com
 lookup7.intelligentcdn.verisign.com
 lookup8.intelligentcdn.verisign.com
+lookupadm1.intelligentcdn.verisign.com
 lookupadm2.intelligentcdn.verisign.com
 lookupadm3.intelligentcdn.verisign.com
 lookupadm4.intelligentcdn.verisign.com
@@ -312,6 +315,7 @@ ns26.verisign.com
 ns27.verisign.com
 ns28.verisign.com
 ns29.verisign.com
+ns2vip.verisign.com
 ns3.verisign.com
 ns30.verisign.com
 ns31.verisign.com
@@ -320,6 +324,7 @@ ns33.verisign.com
 ns34.verisign.com
 ns35.verisign.com
 ns36.verisign.com
+ns37.verisign.com
 ns38.verisign.com
 ns39.verisign.com
 ns4.verisign.com
@@ -332,7 +337,6 @@ nsw-service.verisign.com
 nswm-service.verisign.com
 ntelos-prepay.verisign.com
 ocsp-hsbc.verisign.com
-ocsp.verisign.com
 ocwa.verisign.com
 onetrust.verisign.com
 onlinecontracts-namingservices.verisign.com
@@ -352,6 +356,7 @@ ote-login.verisign.com
 ote-logindr-otp.verisign.com
 ote-logindr.verisign.com
 ote-m.domainscope.verisign.com
+outcollectbilling.verisign.com
 overlord.verisign.com
 owas.verisign.com
 pages.messages.verisign.com
@@ -404,6 +409,7 @@ qa-contentservices5.verisign.com
 qa-namestudio.verisign.com
 qa-web1.contentportal.verisign.com
 qa.domainscope.verisign.com
+qa1-recweb.verisign.com
 qa4-api.verisign.com
 qaweb.verisign.com
 quality-ps-wap1.contentportal.verisign.com
@@ -414,7 +420,6 @@ quasar.verisign.com
 query.verisign.com
 r01.hostedservices.verisign.com
 rating.clearing.verisign.com
-rch.verisign.com
 rdap.verisign.com
 rds.verisign.com
 redirector.intelligentcdn.verisign.com
@@ -435,8 +440,8 @@ roaminghub1.verisign.com
 robin.verisign.com
 rss.verisign.com
 rtma.verisign.com
+s.verisign.com
 safari.verisign.com
-salesportal.verisign.com
 savannah.verisign.com
 scs-test.verisign.com
 search-intranet.verisign.com
@@ -565,8 +570,6 @@ xml-reg.verisign.com
 xmpp-dr.verisign.com
 xmpp.verisign.com
 xnet1.colo-fo.brn1.verisign.com
-xnet1.colo-fo.brn1ns2vip.verisign.com
-xnet1.colo-fo.brn1qa1-recweb.verisign.com
 xnet1.shared-fo.brn1.verisign.com
 xnet2.colo-fo.brn1.verisign.com
 yourdomain.verisign.com
