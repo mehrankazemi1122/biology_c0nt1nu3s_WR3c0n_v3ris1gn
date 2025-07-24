@@ -29,11 +29,13 @@ brandcenter.verisign.com
 brn1lxmailin01.verisign.com
 brn1lxmailin02.verisign.com
 brn1lxmailout01.verisign.com
+brn1lxmailout02.verisign.com
 brn1lxsfmail01.verisign.com
 brn1mailers.verisign.com
 buzzard.verisign.com
 byod-portal.verisign.com
 c42.verisign.com
+cP.verisign.com
 caladan.verisign.com
 cap.verisign.com
 careers.verisign.com
@@ -56,9 +58,7 @@ contentservices.verisign.com
 contentservices2.verisign.com
 contentservices3.verisign.com
 contentservices5.verisign.com
-contentservices6.verisign.com
 contentservices7.verisign.com
-contentservices8.verisign.com
 corpfertr.verisign.com
 corpfertr2.verisign.com
 corporate.verisign.com
@@ -135,9 +135,9 @@ globalprotect.verisign.com
 goodmail.verisign.com
 goofy.verisign.com
 govip.verisign.com
+govip.verisignweb1.contentportal.verisign.com
 gp-fri.verisign.com
 gp-mel.verisign.com
-gp-samail3.verisign.com
 gp-sars.verisign.com
 gp-test.verisign.com
 gp-web.verisign.com
@@ -227,6 +227,7 @@ m-web1.contentportal.verisign.com
 mail01.marketing.verisign.com
 mail1.verisign.com
 mail2.verisign.com
+mail3.verisign.com
 mail4.verisign.com
 mail5.verisign.com
 mail6.verisign.com
@@ -397,6 +398,7 @@ push2talk01-call.verisign.com
 push2talk01-notify.verisign.com
 push2talk01-web.verisign.com
 push2talk02-notify.verisign.com
+push2talk02-web.verisicontentservices6.verisign.com
 push2talk02-web.verisign.com
 push2talk03-call.verisign.com
 push2talk03-notify.verisign.com
@@ -505,6 +507,7 @@ uscc-prepay.verisign.com
 uscell-prepay.verisign.com
 user-apis.verisign.com
 usertesting.verisign.com
+ut01.corparch.verisign.com
 v-lync.verisign.com
 validation.verisign.com
 validation2.verisign.com
@@ -535,7 +538,6 @@ wap.yuuzoo.contentportal.verisign.com
 wap1.contentportal.verisign.com
 web.intelligentcdn.verisign.com
 web.yuuzoo.contentportal.verisign.com
-web1.contentportal.verisign.com
 webcon.verisign.com
 webconf-dr.verisign.com
 webconf.verisign.com
